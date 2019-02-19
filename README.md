@@ -1,1 +1,1 @@
-# EIKjavaWorkshop
+# EIKjavaPlayground
